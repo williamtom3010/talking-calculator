@@ -1,0 +1,1 @@
+This program is created in python language. This program is basically a calculator which performs the basic arithmetic operation which are addition, subtraction, division and multiplication on n-number of variables. After obtaining the result it will display the result as well as reads it out through the speakers. 
